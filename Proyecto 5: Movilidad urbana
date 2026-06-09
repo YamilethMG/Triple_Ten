@@ -1,0 +1,15 @@
+Proyecto 5: Movilidad urbana
+
+Objetivo: 
+Evaluar cómo la movilidad urbana se relaciona con la productividad económica en las principales ciudades latinoamericanas. Se trabajará con datos reales de TomTom Traffic Index y OECD Cities, que se deben limpiar, combinar y analizar para identificar en qué ciudades conviene invertir en infraestructura de transporte.
+
+Hallazgos iniciales:
+•	Resume los patrones más importantes entre índices de tráfico y PIB per cápita. Es díficl analizarlo ya que no hay una relación muy clara entre ellos de acuerdo a lo que se puede observar.
+•	Destaca anomalías u outliers que podrían requerir revisión adicional o un análisis más profundo. La Ciudad de México puede ser un buen caso de estudio ya que presenta en PIB más alto por ciudad y a la vez la congestión más alta.
+
+Recomendaciones
+Aterriza los hallazgos en acciones: ciudades prioritarias, necesidad de validar fuentes, requerimiento de análisis adicionales, o propuestas de inversión.
+•	¿Qué ciudad : Bogotá, Lima o Buenos Aires o alguna otra en particular, muestra la mayor correlación significativa entre altos niveles de congestión vehicular y bajos indicadores de productividad económica, sugiriendo ser una ciudad prioritaria para inversión en infraestructura de transporte? Bogotá podría ser una buena opción para invertir en infraestructura de trasporte ya que presenta niveles cercanos al promedio de PIB por país y puede mejorar si mejora su movilidad.
+
+Archivo:
+S5 ladb_mobility_economy_project_student (2).ipynb
