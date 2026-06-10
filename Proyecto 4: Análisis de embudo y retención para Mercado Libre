@@ -1,0 +1,23 @@
+Proyecto 4: Análisis de embudo y retención para MercadoLibre
+
+Misión: 
+Usar SQL para mapear el embudo de conversión completo, identificar los principales puntos de fuga y evaluar la retención de usuarios por cohortes.
+
+Objetivo: 
+1.	Construir embudos multietapa en SQL usando CTEs.
+2.	Calcular tasas de conversión entre pasos y detectar caídas.
+3.	Analizar la retención de usuarios por cohortes.
+4.	Simular mejoras en conversión o retención.
+5.	Validar resultados y comunicar hallazgos ejecutivos.
+
+Hallazgos iniciales:
+1.	Se puede observar que los Costos de Campañas oscilan entre $1.8-$2.3 millones, más o menos el mismo costo para todos los países, pero no se obtienen ROIs similares, por lo cual hay un sobregasto de Campañas.
+2.	Se encontró que aunque el Margen y el ROI se relacionan y nos pueden indicar la salud financiera del negocio, también se debe tomar en cuenta el beneficio bruto neto, este es el beneficio bruto menos el costo de campañas (no está incluido en la tabla), estos tres conceptos en conjunto nos pueden indicar si el negocio es rentable. Ya que al no estar en la tabla nos da una falsa idea de los beneficios que aporta el negocio.
+3.	Se observa que hay que los costos de campaña son excesivos para algunos países, ya que no regresan beneficios en el ROI. Ejemplo: Reino Unido, Alemania, Francia y Canada.
+
+Implicación:
+1.	Sobre los costos de campaña se recomienda no estandarizar el mismo presupuesto para todos los países. Hay que realizar un estudio que pueda bajar los costos de las campañas en los países con gastos de campañas excesivos, y este a su vez pueda incrementar los ingresos para que el ROI refleje un incremento. Es decir, hacer una reestructura donde se invierta de forma inteligente el presupuesto de campañas en los países que tienen menos ingresos con propuestas publicitarias enfocadas a cada mercado.
+2.	Se puede ver que los costos de operación reditúan un margen estable en todos los países, pero no así el ROI (tratado ya en los puntos anteriores). Se recomienda agregar a la tabla el beneficio bruto neto y una gráfica que indique el porcentaje que se aporta por país, para de esta forma tomar mejores decisiones en el reparto del presupuesto de campañas.
+
+
+
